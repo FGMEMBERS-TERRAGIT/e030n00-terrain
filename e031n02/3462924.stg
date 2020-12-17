@@ -1,0 +1,5 @@
+OBJECT_BASE 3462924.btg
+OBJECT HUPA.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 31.548196 2.198404 742.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 31.560122 2.206902 758.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 31.553354 2.203618 752.0 0.00

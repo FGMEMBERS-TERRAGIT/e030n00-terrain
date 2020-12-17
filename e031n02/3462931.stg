@@ -1,0 +1,5 @@
+OBJECT_BASE 3462931.btg
+OBJECT HUKF.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 31.489940 2.322959 699.8 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 31.504645 2.329782 717.6 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 31.496853 2.327203 715.8 0.00

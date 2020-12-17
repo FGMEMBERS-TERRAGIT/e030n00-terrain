@@ -1,0 +1,5 @@
+OBJECT_BASE 3479346.btg
+OBJECT HUGU.btg
+OBJECT_SHARED Models/Airport/windsock.xml 32.274354 2.798971 1049.2 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 32.267710 2.818234 1025.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 32.275916 2.792590 1057.6 0.00
